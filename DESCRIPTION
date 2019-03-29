@@ -1,0 +1,14 @@
+Package: token
+Title: Decrypt my encrypted token
+Version: 0.0.1
+Authors@R:
+    person(given = "Fangquan",
+           family = "Shi",
+           role = c("aut", "cre"),
+           email = "fountainer@163.com")
+Description: Decrypt my encrypted token.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: safer
+RoxygenNote: 6.1.1
